@@ -15,3 +15,9 @@
 ## Teach Computer sceince
 ## Youtube
 ##
+
+
+# Subscriptions
+
+## iCloud -> decrease the usage and move files to onedrive.
+## 

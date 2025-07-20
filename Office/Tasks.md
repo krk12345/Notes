@@ -1,0 +1,5 @@
+- listen brown bag sessions.
+- talk to collegues which know the subject
+  - for AI, talk to manik, suhail, etc.
+  - for trr items, talk to sariga
+  - 
