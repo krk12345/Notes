@@ -1,7 +1,6 @@
-
 # CS
 
-## Programming & CS
+## Programming & CS [Brilliant]
 
 ### Thinking in Code
 ### Programming with Variables
@@ -14,10 +13,21 @@
 
 
 
-## Data Analysis
+## Data Analysis [Brilliant]
 
 ### Exploring Data Visually
 ### Probability in Data
 ### Clustering & Classification
 ### Regression
 ### Predicting with Probability
+
+
+## Algorithms []
+
+http://visualgo.net
+
+
+**Searching**
+
+***Sorting***
+***Sorting***

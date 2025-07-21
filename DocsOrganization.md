@@ -1,3 +1,8 @@
+# iCloud
+
+
+# onedrive
+
 "C:\Users\ramak\OneDrive\MyResources_15.xlsx"
 "C:\Users\ramak\OneDrive\MyWork_01.xlsx"
 "C:\Users\ramak\OneDrive\7b. Packing List (4D3N) 2024 (P).docx"
@@ -103,3 +108,8 @@
 "C:\Users\ramak\OneDrive\MyResources_12 .xlsb.xlsx"
 "C:\Users\ramak\OneDrive\MyResources_13.xlsb.xlsx"
 "C:\Users\ramak\OneDrive\MyResources_14.xlsx"
+
+# laptops
+
+
+# physical books
